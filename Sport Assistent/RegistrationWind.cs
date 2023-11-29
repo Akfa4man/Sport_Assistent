@@ -31,5 +31,6 @@ namespace Sport_Assistent
         {
             VisualEffects.WindowChange(this, new InputEmailWind());
         }
+        //Коммит 4
     }
 }
