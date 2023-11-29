@@ -21,7 +21,9 @@ namespace Sport_Assistent
         {
 
         }
-
+        //Коммит 5
+        //Надеюсь сработает
+        //!!!
         private void RegistrationWind_Load(object sender, EventArgs e)
         {
 
