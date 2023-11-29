@@ -12,6 +12,7 @@ namespace Sport_Assistent
 {
     public partial class ClientWind : Form
     {
+        // Коммит 2
         public ClientWind()
         {
             InitializeComponent();
