@@ -35,6 +35,7 @@ namespace Sport_Assistent
             VisualEffects.BackColorChange(new Control[] { subscriptionButton, notificationsButton }, Color.Yellow);
         }
         // Коммит 1
+        // Коммит 3
         private void notificationsButton_Click(object sender, EventArgs e)
         {
             notificationsButton.BackColor = mainPanel.BackColor;
