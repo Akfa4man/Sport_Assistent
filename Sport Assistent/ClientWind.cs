@@ -33,7 +33,7 @@ namespace Sport_Assistent
             timetableButton.BackColor = mainPanel.BackColor;
             VisualEffects.BackColorChange(new Control[] { subscriptionButton, notificationsButton }, Color.Yellow);
         }
-
+        // Коммит 1
         private void notificationsButton_Click(object sender, EventArgs e)
         {
             notificationsButton.BackColor = mainPanel.BackColor;
