@@ -16,7 +16,7 @@ namespace Sport_Assistent
         {
             InitializeComponent();
         }
-
+        //Коммит 1
         private void subscriptionButton_Click(object sender, EventArgs e)
         {
             subscriptionButton.BackColor = SystemColors.AppWorkspace;
