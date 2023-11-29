@@ -36,6 +36,7 @@ namespace Sport_Assistent
         }
         // Коммит 1
         // Коммит 3
+        // Коммит 5
         private void notificationsButton_Click(object sender, EventArgs e)
         {
             notificationsButton.BackColor = mainPanel.BackColor;
