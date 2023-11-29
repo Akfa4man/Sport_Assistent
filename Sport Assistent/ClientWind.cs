@@ -12,6 +12,7 @@ namespace Sport_Assistent
 {
     public partial class ClientWind : Form
     {
+        // Коммит 2
         public ClientWind()
         {
             InitializeComponent();
@@ -33,7 +34,9 @@ namespace Sport_Assistent
             timetableButton.BackColor = mainPanel.BackColor;
             VisualEffects.BackColorChange(new Control[] { subscriptionButton, notificationsButton }, Color.Yellow);
         }
-
+        // Коммит 1
+        // Коммит 3
+        // Коммит 5
         private void notificationsButton_Click(object sender, EventArgs e)
         {
             notificationsButton.BackColor = mainPanel.BackColor;
