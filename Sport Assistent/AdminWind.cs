@@ -17,6 +17,7 @@ namespace Sport_Assistent
             InitializeComponent();
             
         }
+        //Коммит 2
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
