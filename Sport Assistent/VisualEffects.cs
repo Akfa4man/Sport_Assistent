@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace Sport_Assistent
 {
+
+
+
     public static class VisualEffects
     {
         public static void WindowChange(Form oldWind, Form newForm)
